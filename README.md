@@ -41,14 +41,17 @@ A beginner-friendly Java console application to record daily expenses, organize 
 
 ## Sample Output
 
-```text
-===== PERSONAL EXPENSE TRACKER =====
+==== PERSONAL EXPENSE TRACKER =====
 1. Add Expense
 2. View All Expenses
 3. View Total Spending
 4. View Spending by Category
 5. Exit
-```
+Enter your choice: 1
+Enter expense name: dinner
+Enter category: food
+Enter amount: 200
+Expense added successfully!
 
 ## Learning Outcomes
 
